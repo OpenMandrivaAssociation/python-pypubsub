@@ -4,7 +4,7 @@
 Summary:	A Python publish-subcribe library 
 Name:		python-%{modname}
 Version:	4.0.3
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Python
 URL:		https://github.com/schollii/%{modname}
