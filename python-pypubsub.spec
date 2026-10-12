@@ -32,8 +32,9 @@ applications.
 %license src/pubsub/LICENSE_BSD_Simple.txt
 %doc README.rst
 %doc src/pubsub/RELEASE_NOTES.txt
-%{python3_sitelib}/%{oname}*
-%{python3_sitelib}/pubsub/
+%{python_sitelib}/pubsub/
+%{python_sitelib}/contrib/
+%{python_sitelib}/pypubsub-%{version}.dist-info
 
 #--------------------------------------------------------------------
 
